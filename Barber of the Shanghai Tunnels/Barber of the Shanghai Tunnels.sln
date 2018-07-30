@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barber of the Shanghai Tunnels", "Assembly-CSharp.csproj", "{92C915D5-E047-8480-6AB3-67788F46E3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barber of the Shanghai Tunnels", "Assembly-CSharp-Editor.csproj", "{930FE10B-5606-4DBF-0DB2-A6CB4C053DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C915D5-E047-8480-6AB3-67788F46E3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C915D5-E047-8480-6AB3-67788F46E3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C915D5-E047-8480-6AB3-67788F46E3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C915D5-E047-8480-6AB3-67788F46E3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930FE10B-5606-4DBF-0DB2-A6CB4C053DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930FE10B-5606-4DBF-0DB2-A6CB4C053DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930FE10B-5606-4DBF-0DB2-A6CB4C053DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930FE10B-5606-4DBF-0DB2-A6CB4C053DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
